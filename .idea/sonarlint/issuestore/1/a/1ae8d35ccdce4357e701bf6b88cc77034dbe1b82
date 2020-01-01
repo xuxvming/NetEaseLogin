@@ -1,0 +1,6 @@
+
+Xsquid:S1948"5Make "expectedCredentials" transient or serializable.(ïÕäïıÿÿÿÿ8õçºôõ-
+_squid:CallToDeprecatedMethodX"0Remove this use of "getHours"; it is deprecated.(·Íë’8éâÆøõ-
+tsquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(²²„Ğ8¼ÔÅôõ-
+dsquid:CallToDeprecatedMethodT"0Remove this use of "getHours"; it is deprecated.(ô›”Àıÿÿÿÿ8éâÆøõ-
+Rsquid:S28642"4Iterate over the "entrySet" instead of the "keySet".(Ôè½8şÅøíõ-
