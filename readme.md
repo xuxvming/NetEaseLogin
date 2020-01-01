@@ -43,4 +43,6 @@
 
 3. Download [APK](app/release/app-release.apk)              
 
-4. Compile source code                                                                                                      
+4. Compile source code    
+
+#### Total time Spent 花费时间：1.5 d                                                                                                  
